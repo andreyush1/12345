@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\WpfApp8 ush\obj\Debug\WpfApp8 ush.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp8 ush\obj\Debug\AddEditPage.g.cs
+C:\Users\Admin\source\repos\WpfApp8 ush\obj\Debug\HotelPage.g.cs
+C:\Users\Admin\source\repos\WpfApp8 ush\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp8 ush\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp8 ush\obj\Debug\WpfApp8 ush_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp8 ush\obj\Debug\WpfApp8 ush_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp8 ush\obj\Debug\Page1.g.cs
